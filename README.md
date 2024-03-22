@@ -4,8 +4,8 @@
             alt="follow on Twitter"></a>
 
 - 👋 Hi, I’m @jojobrain
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning Go
 
 <!---
 jojobrain/captainejojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
