@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m @jojobrain
 
-- 👀 I’m interested in Rust
+
 - 🌱 I’m currently learning Go
 
 <!---
