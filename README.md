@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @jojobrain
 
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning C
 
 <!---
 jojobrain/captainejojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
